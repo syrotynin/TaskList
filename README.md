@@ -7,3 +7,5 @@ Edit and delete them,
 Take pictures,
 Send reports.
 +Russian localization
+
+Installation: download .apk
