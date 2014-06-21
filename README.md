@@ -1,7 +1,7 @@
 TaskList
 ========
 
-Android application for storage your tasks.
+Android application to store your tasks.
 Add tasks,
 Edit and delete them,
 Take pictures,
